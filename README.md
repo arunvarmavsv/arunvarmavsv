@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm **Snehith V. Arun Vanaparthi!**
+### **Data Analyst | Python Enthusiast | Machine Learning Practitioner**
 
-<!--
-**arunvarmavsv/arunvarmavsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With over **5 years of experience** delivering data-driven solutions across **banking, finance, and IT domains**, I specialize in transforming complex data into **actionable insights**. My expertise spans **Python, SQL, machine learning**, and building interactive dashboards that empower decision-making.
 
-Here are some ideas to get you started:
+## 🚀 **What I Do:**
+- Build **ETL pipelines** for seamless data integration and automation.  
+- Design and deploy **predictive models** for fraud detection and risk analysis.  
+- Craft **interactive dashboards** using Tableau and Power BI to uncover trends.  
+- Implement **cloud solutions** with Microsoft Azure for scalable data solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 **Technical Toolkit:**
+- **Languages**: Python, SQL, R  
+- **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras  
+- **Tools**: Tableau, Power BI, Microsoft Azure (DataBricks, Data Lake, etc.)  
+- **Databases**: PostgreSQL, SQL Server, MySQL  
